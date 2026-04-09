@@ -6,7 +6,7 @@ University of Vienna, 2026.
 
 ## Overview
 
-This thesis examines token efficiency as a spatial phenomenon by measuring how
+This thesis examines token efficiency as a spatial construct by measuring how
 efficiently three tokenizer architectures encode place names across a global H3
 hexagonal grid. The analysis covers 6,911 H3 cells at resolution 3, using place
 name data from OpenStreetMap and comparing the tokenizers of GPT-4o, DeepSeek-LLM-7B,
